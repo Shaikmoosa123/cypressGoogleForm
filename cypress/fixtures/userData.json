@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Moosa Shaik",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "I am under 18.",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "I don't exercise."
+
+    },
+
+    {
+        "name": "Kavya",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "My age is above 18.",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "I don't exercise."
+
+    },
+
+    {
+        "name": "Anil",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "My age is above 18.",
+        "chooseAoption": "div[data-value='Yes'][role='option']",
+        "comment2": "I do exercise."
+
+    },
+
+    {
+        "name": "Renuka",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "I am under 18.",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "I don't exercise."
+
+    },
+
+    {
+        "name": "Tejas",
+        "age": "div[data-value='18 or above'][role='radio']",
+        "comment1": "My age is above 18.",
+        "chooseAoption": "div[data-value='Yes'][role='option']",
+        "comment2": "I do exercise."
+
+    },
+
+    {
+        "name": "Ruchita",
+        "age": "div[data-value='Under 18'][role='radio']",
+        "comment1": "I am under 18.",
+        "chooseAoption": "div[data-value='No'][role='option']",
+        "comment2": "I don't exercise."
+
+    }
+
+
+]
