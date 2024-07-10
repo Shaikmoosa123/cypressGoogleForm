@@ -17,7 +17,7 @@
 // Cypress.Commands.add('drag', { prevSubject: 'element'}, (subject, options) => { ... })
 Cypress.Commands.add("enter_name", (name) => {
   
-    cy.xpath('//input[@type="text"]').type(name);
+    cy.get('input[type="text"]').type(name);
     cy.log("Name entered");
 })
 

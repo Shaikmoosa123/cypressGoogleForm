@@ -27,5 +27,3 @@ if(!app.document.head.querySelector("[data-hide-command-log-request]")) {
     app.document.head.appendChild(style);
 
 }
-
-require('cypress-xpath');
